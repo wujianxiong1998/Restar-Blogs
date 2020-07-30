@@ -1,0 +1,118 @@
+.green {
+	color: #16a951;
+}
+.red {
+	color: #ff461f;
+}
+.bg-gray {
+	background-color: #e0f0e9;
+}
+
+
+
+.f-big {
+	font-size: 40rpx;
+}
+.f-small {
+	font-size: 28rpx;
+}
+.f-20 {
+	font-size: 30rpx;
+}
+.f-bold {
+	font-weight: bold;
+}
+
+.flex {
+	display: flex;
+}
+.flex-between {
+	justify-content: space-between;
+}
+.flex-around {
+	justify-content: space-around;
+}
+.flex-center {
+	justify-content: center;
+	align-items: center;
+}
+.flex-center-x {
+	justify-content: center;
+}
+.flex-center-y {
+	align-items: center;
+}
+
+
+.box-sizing {
+	box-sizing: border-box;
+}
+
+
+
+.txt-indent {
+	text-indent: 2em;
+}
+.txt-space {
+	letter-spacing: 2rpx;
+}
+.word-break {
+	word-break: break-all;
+}
+
+.underline {
+	border-bottom: 2rpx dashed  #333;
+}
+
+
+.mar-l {
+	margin-left: 20rpx;
+}
+.mar-r {
+	margin-right: 20rpx;
+}
+.mar-r-s {
+	margin-right: 10rpx;
+}
+.mar-t {
+	margin-top: 20rpx;
+}
+.mar-b {
+	margin-bottom: 20rpx;
+}
+.mar-tb {
+	margin: 20rpx 0;
+}
+.mar-lr {
+	margin: 0 20rpx;
+}
+.mar {
+	margin: 20rpx;
+}
+.pad {
+	padding: 20rpx;
+}
+.pad-l {
+	margin-left: 20rpx;
+}
+.pad-r {
+	margin-right: 20rpx;
+}
+.pad-tb {
+	padding: 20rpx 0;
+}
+.pad-tb-b {
+	padding: 80rpx 0;
+}
+.pad-lr {
+	padding: 0 20rpx;
+}
+.pad-r-s {
+	margin-right: 10rpx;
+}
+.pad-t {
+	margin-top: 20rpx;
+}
+.pad-b {
+	margin-bottom: 20rpx;
+}

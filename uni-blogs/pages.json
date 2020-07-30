@@ -1,0 +1,61 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index"
+		},
+		{
+			"path": "pages/info/info"
+		},
+		{
+			"path": "pages/car/car"
+		},
+		{
+			"path": "pages/user/user"
+		},
+		// 问题详情页
+		{
+			"path": "pages/answer/info"
+		},
+		// 提问界面
+		{
+			"path": "pages/answer/answer"
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "Restar博客",
+		"navigationBarBackgroundColor": "#21a675",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"borderStyle": "white",
+		"color": "#ccc",
+		"selectedColor": "#f20c00",
+		"list": [
+			{
+				"pagePath": "pages/index/index",
+				"text": "首页",
+				"iconPath": "static/icons/home.png",
+				"selectedIconPath": "static/icons/home_active.png"
+			},
+			{
+				"pagePath": "pages/info/info",
+				"text": "资讯",
+				"iconPath": "static/icons/info.png",
+				"selectedIconPath": "static/icons/info_active.png"
+			},
+			{
+				"pagePath": "pages/car/car",
+				"text": "购物车",
+				"iconPath": "static/icons/car.png",
+				"selectedIconPath": "static/icons/car_active.png"
+			},
+			{
+				"pagePath": "pages/user/user",
+				"text": "我的",
+				"iconPath": "static/icons/user.png",
+				"selectedIconPath": "static/icons/user_active.png"
+			}
+		]
+	}
+}
